@@ -24,17 +24,14 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 * Table 1 provides a summary of the ride sharing business by city type.  Specific items of note include the following:
   * 63% of gross revenue from urban markets with 30% from suburban areas and the balance, rural.    
   * Rural drivers account for 2.6% of the total driver workforce yet bring in nearly 7% of revenue.  
-  * Average fare per driver in rural areas are 335% that of urban drivers.  While suburban drivers are 238% that of their urban counter parts.  
-  
+  * Average fare per driver in rural areas are 335% that of urban drivers.  While suburban drivers are 238% that of their urban counter parts. 
  
+ * Figure 2 further demonstrates the disparity in gross revenue between city types over time.  For each, there is monthly fluctuation, yet little movement in trend.  
+  
 ## Recommendations 
 * With potential saturation in the urban markets, focus on development of suburban and rural businesses.  
 * Entice rural customer growth with short-term discounted prices or provide loyalty discounts for repeat riders. 
-* 
-
-
-
-
+* Provide additional resources (drivers) in potential growth markets (rural and suburban).  
 
 ----------------------------------------------------------------------------------
 ### Appendix of Figures and Tables
