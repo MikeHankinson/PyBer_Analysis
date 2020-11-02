@@ -16,7 +16,7 @@ The data was analyzed using Python code within Jupyter Notebook.  The code incor
 ## Deliverables 
 1. A ride-sharing summary DataFrame by city type
 2. A multiple-line chart of total fares for each city type
-3. Deliverable 3: A written report for the PyBer analysis (README.md)
+3. A written report for the PyBer analysis (README.md)
 
 ## Discussion
 * Figure 1 provides a composite look at Pyber's ride-sharing business in 2019.  As known, the larger cities (relative driver count per city depicted by marker size) shouldered the ride volume.  However, driven down by competition, fares were significantly lower in high volume areas.  
