@@ -35,9 +35,10 @@ Data was input into the program via csv import of the following two files provid
 ### Appendix of Tables
 ----------------------------------------------------------------------------------
 
-![Fig_1](https://github.com/MikeHankinson/PyBer_Analysis/blob/main/analysis/Fig1.png)
+![Fig_1](https://https://github.com/MikeHankinson/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 <br>
 **Fig. 1: **
 <br>
 <br>
 <br>
+https://github.com/MikeHankinson/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
