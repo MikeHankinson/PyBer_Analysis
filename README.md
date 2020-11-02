@@ -22,13 +22,21 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 * 
 
 ----------------------------------------------------------------------------------
-### Appendix of Tables
+### Appendix of Figures and Tables
 ----------------------------------------------------------------------------------
 
-![Fig_1](analysis/PyBer_fare_summary.png)
+![Fig_1](analysis/Fig1.png)
 <br>
-**Fig. 1: **
+**Fig. 1:  Fares Through Time**
 <br>
 <br>
 <br>
-https://github.com/MikeHankinson/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
+![Fig_2](analysis/PyBer_fare_summary.png)
+<br>
+**Fig. 2:  Fares Through Time**
+<br>
+<br>
+<br>
+![Table 1](analysis/Ride_Sharing_Summary_by_city.PNG)
+<br>
+**Table. 1: Ride Sharing Summary by City **
