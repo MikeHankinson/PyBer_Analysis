@@ -27,11 +27,13 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ![Fig_1](analysis/Fig1.png)
 <br>
-**Fig. 1:  Fares Through Time**
+<br>
+**Fig. 1:  Ride Sharing: A Composite Look**
 <br>
 <br>
 <br>
 ![Fig_2](analysis/PyBer_fare_summary.png)
+<br>
 <br>
 **Fig. 2:  Fares Through Time**
 <br>
