@@ -1,32 +1,22 @@
-# PyBer_Analysis
-Python/Jupyter Notebook/Matlib
+# PyBer Analysis
 
 ## Purpose
-The purpose of this project is to 
+Pyber is a ride sharing company that has collected considerable data regarding their service over time.  The purpose of this project is to provide exploratory analysis on the captured data in order to determine trends and correlations.  
 
+## Data Sources
+Data was provided in the following 2 files:
+* city_data.csv -- provides data specific to cities of operation, including city, driver count and city type (urban, suburban or rural).
+* ride_data.csv -- provides data specific to each individual ride transaction over time, including city, date, fare and a unique ride identification number.  
 
-## Metrics and Variables
-This study contains two performance metrics:
-* S
-* 
-
-This study contains the following potential causation variables:
-* 
-* 
-* 
-
-## Additional Study
- 
-
-## Deliverables 
-* A hi
+These files are located in the attached Resources folder. The data was merged into a single dataframe for analysis.  
 
 ## Methodology
-This analysis was completed using Python code in Jupyter Noter using Pandas.  
+The data was analyzed using Python code within Jupyter Notebook.  The code incorporated both Pandas and matplotlib.pyplot.  
 
-Data was input into the program via csv import of the following two files provided by ....:
-* .csv
-* .csv
+## Deliverables 
+Deliverable 1: A ride-sharing summary DataFrame by city type
+Deliverable 2: A multiple-line chart of total fares for each city type
+Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ## Discussion
 * 
