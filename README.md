@@ -5,8 +5,8 @@ Pyber is a ride sharing company that has collected considerable data regarding t
 
 ## Data Sources
 Data was provided in the following 2 files:
-* city_data.csv -- provides data specific to cities of operation, including city, driver count and city type (urban, suburban or rural).
-* ride_data.csv -- provides data specific to each individual ride transaction over time, including city, date, fare and a unique ride identification number.  
+* city_data.csv -- provides data specific to cities of operation, including: city, driver count and city type (urban, suburban or rural).
+* ride_data.csv -- provides data specific to each individual ride transaction over time, including: city, date, fare and a unique ride identification number.  
 
 These files are located in the attached Resources folder. The data was merged into a single dataframe for analysis.  
 
@@ -14,9 +14,9 @@ These files are located in the attached Resources folder. The data was merged in
 The data was analyzed using Python code within Jupyter Notebook.  The code incorporated both Pandas and matplotlib.pyplot.  
 
 ## Deliverables 
-Deliverable 1: A ride-sharing summary DataFrame by city type
-Deliverable 2: A multiple-line chart of total fares for each city type
-Deliverable 3: A written report for the PyBer analysis (README.md)
+1. A ride-sharing summary DataFrame by city type
+2. A multiple-line chart of total fares for each city type
+3. Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ## Discussion
 * Figure 1 provides a composite look at Pyber's ride-sharing business in 2019.  As known, the larger cities (relative driver count per city depicted by marker size) shouldered the ride volume.  However, driven down by competition, fares were significantly lower in high volume areas.  
