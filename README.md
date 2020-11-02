@@ -40,7 +40,7 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 ![Fig_1](analysis/Fig1.png)
 <br>
 <br>
-**Fig. 1:  Ride Sharing: A Composite Look**
+**Fig. 1:  Ride Sharing - A Composite Look**
 <br>
 <br>
 <br>
